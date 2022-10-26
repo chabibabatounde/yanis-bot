@@ -57,11 +57,11 @@ module.exports.bootstrap = async function() {
         });
 
         web_whatsapp_client.on('message', msg => {
-            let mgs_reply = 'Bonjour ' + msg.notifyName + ".\nJe suis Yanis, un robot whatsapp développé par @chabibabatounde ";
-            mgs_reply += "pour vous envoyer automatiquement des messages.";
+            let mgs_reply = "Hello Hello! \n\nJe suis Yanis, un robot whatsapp développé par @chabibabatounde ";
+            mgs_reply += "pour vous envoyer automatiquement des messages. ";
             mgs_reply += "Je ne suis malheuresement pas en mesure de traiter votre méssage et y répondre convenablement.";
             mgs_reply += "Néanmoins, je ferai de mon mieux pour transmettre votre message à qui de droit.";
-            mgs_reply += "\n*🎊😊 Yacoco!*";
+            mgs_reply += "\n\n*🎊😊 Yacoco!*";
             msg.reply(mgs_reply);
         });
 
