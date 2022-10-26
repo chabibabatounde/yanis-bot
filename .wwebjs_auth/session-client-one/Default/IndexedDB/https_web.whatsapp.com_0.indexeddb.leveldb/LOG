@@ -1,0 +1,12 @@
+2022/10/26-19:26:36.006 15303 Reusing MANIFEST /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/26-19:26:36.006 15303 Recovering log #10
+2022/10/26-19:26:36.204 15303 Reusing old log /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2022/10/26-19:26:50.489 1f203 Level-0 table #16: started
+2022/10/26-19:26:50.517 1f203 Level-0 table #16: 1221182 bytes OK
+2022/10/26-19:26:50.528 1f203 Delete type=0 #10
+2022/10/26-19:26:50.530 1f203 Compacting 1@1 + 1@2 files
+2022/10/26-19:26:50.638 1f203 Generated table #17@1: 32715 keys, 1669039 bytes
+2022/10/26-19:26:50.638 1f203 Compacted 1@1 + 1@2 files => 1669039 bytes
+2022/10/26-19:26:50.646 1f203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/26-19:26:50.647 1f203 Delete type=2 #16
+2022/10/26-19:26:50.647 1f203 Delete type=2 #13
