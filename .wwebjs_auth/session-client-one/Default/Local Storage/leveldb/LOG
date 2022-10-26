@@ -1,3 +1,3 @@
-2022/10/26-19:26:35.129 6403 Reusing MANIFEST /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/MANIFEST-000001
-2022/10/26-19:26:35.129 6403 Recovering log #3
-2022/10/26-19:26:35.133 6403 Reusing old log /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/000003.log 
+2022/10/26-19:39:23.169 b203 Reusing MANIFEST /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/26-19:39:23.169 b203 Recovering log #3
+2022/10/26-19:39:23.170 b203 Reusing old log /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/000003.log 
