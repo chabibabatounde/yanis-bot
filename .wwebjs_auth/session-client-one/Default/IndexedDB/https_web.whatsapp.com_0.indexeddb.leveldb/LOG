@@ -1,3 +1,22 @@
-2022/10/26-19:45:18.328 10403 Reusing MANIFEST /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/26-19:45:18.329 10403 Recovering log #19
-2022/10/26-19:45:18.372 10403 Reusing old log /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
+2022/10/29-11:33:56.856 f40b Reusing MANIFEST /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/29-11:33:56.857 f40b Recovering log #28
+2022/10/29-11:33:56.973 f40b Reusing old log /Applications/Node.js/yanisbot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2022/10/29-11:34:11.603 1f103 Level-0 table #34: started
+2022/10/29-11:34:11.649 1f103 Level-0 table #34: 1194608 bytes OK
+2022/10/29-11:34:11.660 1f103 Delete type=0 #28
+2022/10/29-11:34:12.380 1ef03 Compacting 1@1 + 2@2 files
+2022/10/29-11:34:12.671 1ef03 Generated table #35@1: 40994 keys, 2263681 bytes
+2022/10/29-11:34:12.711 1ef03 Generated table #36@1: 12898 keys, 582472 bytes
+2022/10/29-11:34:12.711 1ef03 Compacted 1@1 + 2@2 files => 2846153 bytes
+2022/10/29-11:34:12.723 1ef03 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/29-11:34:12.724 1ef03 Delete type=2 #34
+2022/10/29-11:34:12.724 1ef03 Delete type=2 #31
+2022/10/29-11:34:12.724 1ef03 Delete type=2 #30
+2022/10/30-14:49:02.763 1ed67 Level-0 table #38: started
+2022/10/30-14:49:02.813 1ed67 Level-0 table #38: 1290415 bytes OK
+2022/10/30-14:49:02.824 1ed67 Delete type=0 #33
+2022/10/30-15:05:34.337 152f7 Compacting 1@1 + 2@2 files
+2022/10/30-15:05:34.468 152f7 Generated table #39@1: 39919 keys, 2261910 bytes
+2022/10/30-15:05:34.518 152f7 Generated table #40@1: 16501 keys, 691466 bytes
+2022/10/30-15:05:34.518 152f7 Compacted 1@1 + 2@2 files => 2953376 bytes
+2022/10/30-15:05:34.524 152f7 compacted to: files[ 0 0 2 0 0 0 0 ]
